@@ -1,2 +1,2 @@
 # YouTubeDownloader
-YouTube Video Downloader BUT no audio
+# YouTube Video Downloader <b>BUT</b> no audio
